@@ -40,7 +40,8 @@ Isso irá:
 ### Opções
 
 ```
-usage: main.py [-h] [--colab] [--version VERSION] [--jql JQL] [--extract-only] [--generate-only] [--document-only]
+usage:
+main.py [-h] [--colab] [--version VERSION] [--jql JQL] [--extract-only] [--generate-only] [--document-only]
 
 Gerador de Changelog Automatizado
 
